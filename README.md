@@ -7,4 +7,5 @@ Example input "pallo", "keppi" outputs ("kello", "pappi").
 Ignores Finnish vowel harmony, because I personally don't consider vowel harmony breaking to be valid in spoonerizing. The length of the mora vowel is taken into account.
 
 mätä - muna -> mutä - mäna
+
 rooli - pallo -> paali, rollo
